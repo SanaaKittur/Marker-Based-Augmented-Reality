@@ -29,7 +29,7 @@ ArToolkitContext.init(function(){
 var ArMarkerControls = new THREEx.ArMarkerControls(ArToolkitContext,camera,
 {
     type:'pattern',
-    patternUrl: 'C:/xampp/htdocs/arvr_project/pattern-dsu_logo.patt',
+    patternUrl: 'pattern-dsu_logo.patt',
     changeMatrixMode: 'cameraTransformMatrix'
 })
 
